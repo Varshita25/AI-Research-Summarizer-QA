@@ -7,7 +7,7 @@ This project allows users to:
 - Future features: Streamlit UI, Q&A comparison, PDF export
 
 ## Run it on Colab
-[Click to Open in Colab](https://colab.research.google.com/)
+[Click to Open in Colab](https://colab.research.google.com/drive/1_eB6ZiFqGv8vx-Y58k7YawPI7L9MEYQc)
 
 ## Tech Used:
 - Hugging Face Transformers (BART, DistilBERT)
